@@ -21,6 +21,7 @@ router.post('/save', (req, res) => {
     const data = req.body;
     const newUserAccount = new UserAccount(data)
 
+
     newUserAccount.save((error) => {
         if(error) {
             res.status(500).json({
@@ -34,14 +35,6 @@ router.post('/save', (req, res) => {
         });
 
     })
-});
-
-router.get('/name', (req, res) => {
-    const data = {
-        username: 'peter',
-        age: 14
-    }
-    res.json(data);
 });
 
 module.exports = router;

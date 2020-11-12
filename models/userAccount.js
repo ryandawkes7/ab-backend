@@ -4,15 +4,13 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const UserAccountSchema = new Schema({
     userName: {
-        type: String
+        type: String,
+        required: true,
     },
     userEmail: {
-        type: String
-    },
-    date: {
         type: String,
-        defaultValue: Date.now()
-    }
+        required: false,
+    },
 });
 
 // Model

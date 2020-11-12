@@ -19,7 +19,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/routes/api" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,7 +37,13 @@
       <option name="presentableId" value="Default" />
       <updated>1604609872290</updated>
       <workItem from="1604609873605" duration="310000" />
-      <workItem from="1604670107502" duration="14005000" />
+      <workItem from="1604670107502" duration="15386000" />
+      <workItem from="1604840475149" duration="888000" />
+      <workItem from="1604932841479" duration="1669000" />
+      <workItem from="1605101634017" duration="9363000" />
+      <workItem from="1605129681552" duration="4557000" />
+      <workItem from="1605185251799" duration="386000" />
+      <workItem from="1605185686811" duration="614000" />
     </task>
     <servers />
   </component>
@@ -43,6 +56,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605127787027">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.-83.1920.1080@0.0.1440.900" timestamp="1605127787027" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1604609893138">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
